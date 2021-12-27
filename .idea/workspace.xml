@@ -5,23 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="Sync repo">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/portfolio.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/github.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/.idea/Portfolio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/js/headerNavJS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/portfolio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/portfolio_1_oldJapanPicture" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/portfolio_2_szachownica_na_3_sposoby/css/chessboardFloatCSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/portfolio_2_szachownica_na_3_sposoby/css/chessboardInlineBlockCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/portfolio_3_projektMenu/css/menuCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/portfolio_3_projektMenu/img/pianino.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/portfolio_3_projektMenu/menu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio_1_oldJapanPicture" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio_1_oldJapanPicture" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/portfolio_1_oldJapanPicture/oldJapanPicture.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio_1_oldJapanPicture/oldJapanPicture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/portfolio_2_szachownica_na_3_sposoby/SzachownicaProjekt-InlineBlock/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio_2_szachownica_na_3_sposoby/chessboardInlineBlock.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio_2_szachownica_na_3_sposoby" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,14 +21,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
         <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/portfolio/portfolio_2_szachownica_na_3_sposoby" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -64,7 +54,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -90,7 +80,8 @@
       <workItem from="1640339307274" duration="7923000" />
       <workItem from="1640422025877" duration="974000" />
       <workItem from="1640438984330" duration="11989000" />
-      <workItem from="1640520197024" duration="5532000" />
+      <workItem from="1640520197024" duration="6339000" />
+      <workItem from="1640592961250" duration="9468000" />
     </task>
     <servers />
   </component>
