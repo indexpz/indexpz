@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+
+}
+
+.circle {
+    position: absolute;
+    width: 3.5vw;
+    height: 3.5vw;
+    max-width: 40px;
+    max-height: 40px;
+    border: 2px solid black;
+    border-radius: 50%;
+    z-index: 1;
+    cursor: pointer;
+}
+
+.bg{
+    background: gray;
+    height: 100vh;
+    transition: .6s;
+}
+div.red {
+    top: 4vw;
+    left: 4vw;
+    background: red;
+}
+
+div.green {
+    top: 4vw;
+    right: 4vw;
+    background: green;
+}
+
+div.blue {
+    bottom: 4vw;
+    right: 4vw;
+    background: blue;
+}
+
+div.orange {
+    bottom: 4vw;
+    left: 4vw;
+    background: orange;
+}
+
+
+
+.bg  p{
+    position: absolute;
+    top: 0;
+    left:0;
+    width: 100%;
+    line-height: 100vh;
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+    transition: .6s;
+    opacity: 0;
+}
+
+div.red:hover~div.bg{
+    background-color: red;
+}
+
+div.green:hover~div.bg{
+    background-color: green;
+}
+
+div.blue:hover~div.bg{
+    background-color: blue;
+}
+
+div.orange:hover~div.bg{
+    background-color: orange;
+}
+
+div.red:hover~div.bg p.red,
+div.blue:hover~div.bg p.blue,
+div.green:hover~div.bg p.green,
+div.orange:hover~div.bg p.orange{
+    opacity: 1;
+}

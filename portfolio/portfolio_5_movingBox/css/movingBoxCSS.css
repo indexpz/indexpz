@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+button{
+    position: absolute;
+    top: 30px;
+    width: 120px;
+    left: calc(50% - 60px);
+    line-height: 35px;
+    background-color: black;
+    font-size: 1.3rem;
+    color: white;
+    border: 1px solid black;
+    transition: 1s;
+    cursor: pointer;
+}
+.btn2{
+    top: 70px;
+}
+
+div.square1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 10px;
+    height: 10px;
+    background: #000;
+    transition:  1s;
+}
+
+div.square2{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 10px;
+    height: 10px;
+    background: #000;
+    transition: left .5s , top .5s .5s, width 1s, height 1s;
+}
+
+button:hover{
+background-color: white;
+    color: black;
+    border: 1px solid black;
+}
+
+.btn1:hover~div.square1{
+    position: absolute;
+    top: calc(100% - 100px);
+    left: calc(100% - 100px);
+    width: 100px;
+    height: 100px;
+}
+
+.btn2:hover~div.square2{
+    position: absolute;
+    top: calc(100% - 100px);
+    left: calc(100% - 100px);
+    width: 100px;
+    height: 100px;
+}
