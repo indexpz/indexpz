@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+:root {
+    --houseWidth: 50vw;
+    --houseHeight: calc(var(--houseWidth) * 0.6);
+}
+
+span {
+    position: absolute;
+    top: 10vw;
+    left: 10vw;
+    padding: 10px 30px;
+    line-height: 30px;
+    background-color: red;
+    color: white;
+    font-weight: 600;
+    border: 2px solid red;
+    transition: 0.5s;
+    z-index: 3;
+}
+
+span:hover {
+    background-color: white;
+    color: red;
+}
+
+
+span:hover~div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: var(--houseWidth);
+    height: var(--houseHeight);
+    transform: translate(-50%, -50%) rotate(0deg);
+    background-color: darkred;
+}
+
+span:hover~div:nth-of-type(1) {
+    transform: translate(180%, -350%) rotate(0deg);
+    width: calc((var(--houseWidth) / 10));
+    height: calc((var(--houseWidth) / 5));
+    background-color: gray;
+
+}
+
+span:hover~div:nth-of-type(2) {
+    transform: translate(-50%, -92.5%) rotate(45deg);
+    width: calc((var(--houseWidth) / 1.414));
+    height: calc((var(--houseWidth) / 1.414));
+    background-color: black;
+    transition-delay: .2s
+}
+
+span:hover~div:nth-of-type(3) {
+    transform: translate(-150%, -92.5%) rotate(0deg);
+    width: calc((var(--houseWidth) / 4));
+    height: calc((var(--houseWidth) / 4));
+    background-color: yellow;
+    z-index: 1;
+}
+
+span:hover~div:nth-of-type(4) {
+    transform: translate(50%, -92.5%) rotate(0deg);
+    width: calc((var(--houseWidth) / 4));
+    height: calc((var(--houseWidth) / 4));
+    background-color: yellow;
+    z-index: 2;
+}
+
+span:hover~div:nth-of-type(5) {
+    transform: translate(-50%, -10%) rotate(0deg);
+    width: calc((var(--houseWidth) / 6));
+    height: calc((var(--houseWidth) / 3));
+    background-color: darkgray;
+    z-index: 3;
+}
+
+
+div {
+    top: 60vw;
+    left: -30vw;
+    width: 10px;
+    height: 10px;
+    transform: translate(-50%,-50%) rotate(360deg);
+    transition: 1s;
+}

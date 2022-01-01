@@ -5,14 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="Sync repo">
-      <change afterPath="$PROJECT_DIR$/portfolio/portfolio_6_centerElement/centerElement.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/portfolio_6_centerElement/css/centerElementCSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/portfolio_7_lineNSquare/css/lineNSquareCSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/portfolio_7_lineNSquare/lineNSquare.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/portfolio_10_buttons/buttons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/portfolio_10_buttons/css/butonsCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/portfolio_11_transformBtn/css/transformBtnCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/portfolio_11_transformBtn/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/portfolio_11_transformBtn/transformBtn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/portfolio_12_sunAnimation/css/sunAnimationCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/portfolio_12_sunAnimation/sunAnimation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/portfolio_13_boxAnimation/boxAnimation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/portfolio_13_boxAnimation/css/boxAnimationCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/portfolio_14_pauseAnimation/css/pauseAnimationCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/portfolio_14_pauseAnimation/pauseAnimation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/portfolio_15_shakingButton/css/shakingButtonCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/portfolio_15_shakingButton/shakingButton.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/portfolio_16_buttonChangeText/buttonChangeText.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/portfolio_16_buttonChangeText/css/buttonChangeTextCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/portfolio_8_house/css/houseCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/portfolio_8_house/house.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/portfolio_9_clock/clock.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/portfolio_9_clock/css/clockCSS.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/portfolio_1_oldJapanPicture" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio_1_oldJapanPicture" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/portfolio_1_oldJapanPicture/oldJapanPicture.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio_1_oldJapanPicture/oldJapanPicture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/portfolio_2_chessboard" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio_2_chessboard" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +68,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -84,7 +97,10 @@
       <workItem from="1640520197024" duration="6339000" />
       <workItem from="1640592961250" duration="15113000" />
       <workItem from="1640716801262" duration="5527000" />
-      <workItem from="1640771309628" duration="1795000" />
+      <workItem from="1640771309628" duration="6766000" />
+      <workItem from="1640947758547" duration="14216000" />
+      <workItem from="1641039992004" duration="369000" />
+      <workItem from="1641040379893" duration="7497000" />
     </task>
     <servers />
   </component>
@@ -104,6 +120,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/portfolio/portfolio_1_oldJapanPicture" />
+      <path value="$PROJECT_DIR$/portfolio/portfolio_2_szachownica_na_3_sposoby" />
+    </ignored-roots>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

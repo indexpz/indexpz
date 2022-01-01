@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+button{
+    position: absolute;
+    bottom:15vh;
+    right: 15vh;
+    border: 2px solid black;
+    font-size: 30px;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    background-color: white;
+    animation: shakes 5s linear infinite;
+}
+
+
+@keyframes shakes{
+    0%{transform: translatex(0)}
+    90%{transform: translatex(0)}
+    91%{transform: translatex(20px)}
+    92%{transform: translatex(-22px)}
+    93%{transform: translatex(20px)}
+    94%{transform: translatex(-20px)}
+    95%{transform: translatex(20px)}
+    96%{transform: translatex(-20px)}
+    97%{transform: translatex(20px)}
+    98%{transform: translatex(-20px)}
+    99%{transform: translatex(20px)}
+    100%{transform: translatex(0)}
+}
+

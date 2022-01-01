@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+button {
+    position: absolute;
+    top: 10vh;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: white;
+    border: 2px solid black;
+    overflow: hidden;
+}
+
+
+button::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 0;
+    height: 100%;
+    background-color: white;
+
+}
+
+button::after {
+    content: 'Drugi tekst';
+    position: absolute;
+    top: 135%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+}
+
+@keyframes moveTxt {
+    100% {
+        top: 50%;
+    }
+}
+
+@keyframes scale {
+    100% {
+        width: 100%;
+    }
+}
+
+button:hover::after {
+    animation: moveTxt 0.3s linear both alternate;
+}
+
+button:hover::before {
+    animation:  scale 0.3s linear both;
+}
