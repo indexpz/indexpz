@@ -1,0 +1,42 @@
+.chessboard-position-absolute {
+    display: block;
+    width: 100%;
+    height: 100vh;
+    margin-top: 50px;
+    position: relative;
+}
+
+.board-position-absolute {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    height: 50vw;
+    border: 10px solid black;
+}
+
+.board-position-absolute > span:first-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 50%;
+    background: red;
+}
+
+.board-position-absolute > span:last-child {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 50%;
+    height: 50%;
+    background: red;
+}
+
+.chessboard-position-absolute > h1 {
+    position: relative;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

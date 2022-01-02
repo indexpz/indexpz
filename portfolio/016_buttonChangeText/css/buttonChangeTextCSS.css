@@ -29,7 +29,7 @@ button::before {
     width: 0;
     height: 100%;
     background-color: white;
-
+    transition: .3s linear ;
 }
 
 button::after {
@@ -39,24 +39,14 @@ button::after {
     left: 50%;
     transform: translate(-50%, -50%);
     width: 100%;
+    transition: .3s linear ;
 }
 
-@keyframes moveTxt {
-    100% {
-        top: 50%;
-    }
-}
-
-@keyframes scale {
-    100% {
-        width: 100%;
-    }
-}
 
 button:hover::after {
-    animation: moveTxt 0.3s linear both alternate;
+    top: 50%;
 }
 
 button:hover::before {
-    animation:  scale 0.3s linear both;
+    width: 100%;
 }
