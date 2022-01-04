@@ -5,14 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="Sync repo">
-      <change afterPath="$PROJECT_DIR$/portfolio/001_oldJapanPicture/css/oldJapanPicture.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/024_bellAnimation/bellAnimation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/024_bellAnimation/css/bellAnimation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/025_buttonArrowAnimation/buttonArrowAnimation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/025_buttonArrowAnimation/css/buttonArrowAnimation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/026_flexboxIntro/css/flexboxIntro.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/026_flexboxIntro/e1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/026_flexboxIntro/e2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/026_flexboxIntro/e3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/026_flexboxIntro/e4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/026_flexboxIntro/e5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/026_flexboxIntro/flexboxIntro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/026_flexboxIntro/js/flexboxIntro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/27_flexboxChildrenIntro/e6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/001_oldJapanPicture/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/001_oldJapanPicture/oldJapanPicture.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/001_oldJapanPicture/oldJapanPicture.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +24,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -90,6 +92,7 @@
       <workItem from="1641040379893" duration="7497000" />
       <workItem from="1641101777189" duration="14239000" />
       <workItem from="1641141858579" duration="4610000" />
+      <workItem from="1641202777638" duration="8131000" />
     </task>
     <servers />
   </component>
