@@ -4,16 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="Sync repo">
-      <change afterPath="$PROJECT_DIR$/portfolio/026_flexboxIntro/css/flexboxIntro.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/026_flexboxIntro/e1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/026_flexboxIntro/e2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/026_flexboxIntro/e3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/026_flexboxIntro/e4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/026_flexboxIntro/e5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/026_flexboxIntro/flexboxIntro.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/026_flexboxIntro/js/flexboxIntro.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/27_flexboxChildrenIntro/e6.html" afterDir="false" />
+    <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="Flexbox">
+      <change afterPath="$PROJECT_DIR$/portfolio/28_flexboxCalculator/css/flexboxCalculator.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/28_flexboxCalculator/flexboxCalculator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/29_flexboxCalculator2/css/flexboxCalculator2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/29_flexboxCalculator2/flexboxCalculator2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/30_mediaQueriesRespons/css/mediaQueriesRespons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/30_mediaQueriesRespons/img/bg1280x853.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/30_mediaQueriesRespons/img/bg1920x1280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/30_mediaQueriesRespons/img/bg640x426.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/30_mediaQueriesRespons/mediaQueriesRespons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/31_flexboxMediaQueriesGallery/css/flexboxMediaQueriesGallery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/31_flexboxMediaQueriesGallery/flexboxMediaQueriesGallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/31_flexboxMediaQueriesGallery/img/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/31_flexboxMediaQueriesGallery/img/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/31_flexboxMediaQueriesGallery/img/img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/31_flexboxMediaQueriesGallery/img/img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/31_flexboxMediaQueriesGallery/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/32_menuRespons/css/menuRespons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/32_menuRespons/menuRespons.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,9 +33,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -50,7 +59,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/toLoad/headerNav" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/portfolio/32_menuRespons" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -62,6 +71,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/portfolio/32_menuRespons" />
       <recent name="$PROJECT_DIR$/toLoad/headerNav" />
       <recent name="$PROJECT_DIR$/img" />
     </key>
@@ -93,7 +103,16 @@
       <workItem from="1641101777189" duration="14239000" />
       <workItem from="1641141858579" duration="4610000" />
       <workItem from="1641202777638" duration="8131000" />
+      <workItem from="1641289501024" duration="21922000" />
     </task>
+    <task id="LOCAL-00001" summary="Flexbox">
+      <created>1641289751484</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641289751484</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +135,8 @@
       <path value="$PROJECT_DIR$/portfolio/portfolio_1_oldJapanPicture" />
       <path value="$PROJECT_DIR$/portfolio/portfolio_2_szachownica_na_3_sposoby" />
     </ignored-roots>
+    <MESSAGE value="Flexbox" />
+    <option name="LAST_COMMIT_MESSAGE" value="Flexbox" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
