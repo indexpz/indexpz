@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="Flexbox cd">
-      <change afterPath="$PROJECT_DIR$/portfolio/36_jsAddeventListenerButton/css/jsAddeventListenerButton.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/36_jsAddeventListenerButton/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/36_jsAddeventListenerButton/jsAddeventListenerButton.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/37_jsToggleClassName/css/jsToggleClassName.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/37_jsToggleClassName/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/37_jsToggleClassName/jsToggleClassName.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/38_jsRotateOnClick/css/jsRotateOnClick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/38_jsRotateOnClick/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/38_jsRotateOnClick/jsRotateOnClick.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,9 +21,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -92,7 +95,7 @@
       <workItem from="1641289501024" duration="23663000" />
       <workItem from="1641464436827" duration="17169000" />
       <workItem from="1641493198668" duration="619000" />
-      <workItem from="1641493874582" duration="769000" />
+      <workItem from="1641493874582" duration="8300000" />
     </task>
     <task id="LOCAL-00001" summary="Flexbox">
       <created>1641289751484</created>
