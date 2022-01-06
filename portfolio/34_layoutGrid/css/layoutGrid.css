@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  display: grid;
+  grid-template-columns:  1fr 300px;
+  grid-template-rows: 300px 50px 1fr 50px;
+  grid-template-areas:
+  "baner baner"
+  "menu menu"
+  "blog column"
+  "stopka stopka";
+
+  max-width: 1200px;
+  margin: 0 auto;
+  min-height: 100vh;
+  font-size: 25px;
+  color: white;
+}
+
+header {
+  grid-area: baner;
+  background-color: royalblue;
+}
+
+nav {
+  grid-area: menu;
+  background-color: black;
+}
+
+main {
+  grid-area: blog;
+  background-color: darkgray;
+}
+
+aside {
+  grid-area: column;
+  background-color: lightblue;
+}
+
+footer {
+  grid-area: stopka;
+  background-color: black;
+}
+
+@media (max-width: 1024px) {
+  body {
+    grid-template-columns:  1fr;
+    grid-template-rows: 50px 200px 2fr 1fr 50px;
+    grid-template-areas:
+    "menu"
+  "baner"
+  "blog"
+  "column"
+  "stopka";
+  }
+}

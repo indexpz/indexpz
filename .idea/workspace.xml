@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="Flexbox cd">
-      <change afterPath="$PROJECT_DIR$/portfolio/33_layoutFlexbox/css/layoutFlexbox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/33_layoutFlexbox/layoutFlexbox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/34_layoutGrid/css/layoutGrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/34_layoutGrid/layoutGrid.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +88,7 @@
       <workItem from="1641141858579" duration="4610000" />
       <workItem from="1641202777638" duration="8131000" />
       <workItem from="1641289501024" duration="23663000" />
-      <workItem from="1641464436827" duration="3527000" />
+      <workItem from="1641464436827" duration="6076000" />
     </task>
     <task id="LOCAL-00001" summary="Flexbox">
       <created>1641289751484</created>
