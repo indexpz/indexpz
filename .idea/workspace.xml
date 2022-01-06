@@ -4,25 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="Flexbox">
-      <change afterPath="$PROJECT_DIR$/portfolio/28_flexboxCalculator/css/flexboxCalculator.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/28_flexboxCalculator/flexboxCalculator.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/29_flexboxCalculator2/css/flexboxCalculator2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/29_flexboxCalculator2/flexboxCalculator2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/30_mediaQueriesRespons/css/mediaQueriesRespons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/30_mediaQueriesRespons/img/bg1280x853.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/30_mediaQueriesRespons/img/bg1920x1280.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/30_mediaQueriesRespons/img/bg640x426.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/30_mediaQueriesRespons/mediaQueriesRespons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/31_flexboxMediaQueriesGallery/css/flexboxMediaQueriesGallery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/31_flexboxMediaQueriesGallery/flexboxMediaQueriesGallery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/31_flexboxMediaQueriesGallery/img/img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/31_flexboxMediaQueriesGallery/img/img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/31_flexboxMediaQueriesGallery/img/img3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/31_flexboxMediaQueriesGallery/img/img4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/31_flexboxMediaQueriesGallery/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/32_menuRespons/css/menuRespons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/32_menuRespons/menuRespons.html" afterDir="false" />
+    <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="Flexbox cd">
+      <change afterPath="$PROJECT_DIR$/portfolio/33_layoutFlexbox/css/layoutFlexbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/33_layoutFlexbox/layoutFlexbox.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +50,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -103,7 +87,8 @@
       <workItem from="1641101777189" duration="14239000" />
       <workItem from="1641141858579" duration="4610000" />
       <workItem from="1641202777638" duration="8131000" />
-      <workItem from="1641289501024" duration="21922000" />
+      <workItem from="1641289501024" duration="23663000" />
+      <workItem from="1641464436827" duration="3527000" />
     </task>
     <task id="LOCAL-00001" summary="Flexbox">
       <created>1641289751484</created>
@@ -112,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641289751484</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Flexbox cd">
+      <created>1641413590994</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1641413590994</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,7 +128,8 @@
       <path value="$PROJECT_DIR$/portfolio/portfolio_2_szachownica_na_3_sposoby" />
     </ignored-roots>
     <MESSAGE value="Flexbox" />
-    <option name="LAST_COMMIT_MESSAGE" value="Flexbox" />
+    <MESSAGE value="Flexbox cd" />
+    <option name="LAST_COMMIT_MESSAGE" value="Flexbox cd" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
