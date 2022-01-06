@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="Flexbox cd">
-      <change afterPath="$PROJECT_DIR$/portfolio/35_priceListFlexbox/css/priceListFlexbox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/35_priceListFlexbox/img/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/35_priceListFlexbox/img/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/35_priceListFlexbox/img/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/35_priceListFlexbox/priceListFlexbox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/35_priceListFlexbox/start.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/36_jsAddeventListenerButton/css/jsAddeventListenerButton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/36_jsAddeventListenerButton/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/36_jsAddeventListenerButton/jsAddeventListenerButton.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,9 +18,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -47,18 +44,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/portfolio/32_menuRespons" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/portfolio/36_jsAddeventListenerButton/js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/portfolio/36_jsAddeventListenerButton/js" />
       <recent name="$PROJECT_DIR$/portfolio/32_menuRespons" />
       <recent name="$PROJECT_DIR$/toLoad/headerNav" />
       <recent name="$PROJECT_DIR$/img" />
@@ -92,7 +90,9 @@
       <workItem from="1641141858579" duration="4610000" />
       <workItem from="1641202777638" duration="8131000" />
       <workItem from="1641289501024" duration="23663000" />
-      <workItem from="1641464436827" duration="12578000" />
+      <workItem from="1641464436827" duration="17169000" />
+      <workItem from="1641493198668" duration="619000" />
+      <workItem from="1641493874582" duration="769000" />
     </task>
     <task id="LOCAL-00001" summary="Flexbox">
       <created>1641289751484</created>
