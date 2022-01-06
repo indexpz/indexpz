@@ -1,0 +1,74 @@
+/*Ustaw trzy kolumny za pomocą flex - max dla sekcji obejmującej 3 kolumny to 1200px*/
+/*Każda kolumna też ma byc kontenerem flex. Kolumny powinny mieć 25% szerokości rodzica, między kolumnami powinny być odstępy*/
+/*Cena zawsze na dole i obramowana*/
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+h1 {
+  margin: 30px auto;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 30px;
+}
+
+section {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+.col {
+  flex-basis: 25%;
+  padding: 20px;
+  background-color: lightgray;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.col > * {
+  padding-bottom: 25px;
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.col img {
+  width: 80%;
+  align-self: center;
+}
+
+
+
+.price {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.price>span{
+  width: 80%;
+  padding: 10px 0;
+  margin: 0 auto;
+  border: 2px solid black;
+  background-color: white;
+}
+
