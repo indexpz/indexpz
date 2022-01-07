@@ -30,6 +30,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     reset.addEventListener("click", () => {
         spaceForSquares.innerHTML = "";
+        nr = 0;
     })
 
 });
