@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="Flexbox cd">
-      <change afterPath="$PROJECT_DIR$/portfolio/37_jsToggleClassName/css/jsToggleClassName.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/37_jsToggleClassName/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/37_jsToggleClassName/jsToggleClassName.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/38_jsRotateOnClick/css/jsRotateOnClick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/38_jsRotateOnClick/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/38_jsRotateOnClick/jsRotateOnClick.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/39_jsAddBoxAfterClick/css/jsAddBoxAfterClick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/39_jsAddBoxAfterClick/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/39_jsAddBoxAfterClick/js/jqApp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/39_jsAddBoxAfterClick/js/jquery-3.6.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/39_jsAddBoxAfterClick/jsAddBoxAfterClick.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -47,18 +47,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/portfolio/36_jsAddeventListenerButton/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/portfolio/37_jsToggleClassName/js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/portfolio/37_jsToggleClassName/js" />
       <recent name="$PROJECT_DIR$/portfolio/36_jsAddeventListenerButton/js" />
       <recent name="$PROJECT_DIR$/portfolio/32_menuRespons" />
       <recent name="$PROJECT_DIR$/toLoad/headerNav" />
@@ -95,7 +96,10 @@
       <workItem from="1641289501024" duration="23663000" />
       <workItem from="1641464436827" duration="17169000" />
       <workItem from="1641493198668" duration="619000" />
-      <workItem from="1641493874582" duration="8300000" />
+      <workItem from="1641493874582" duration="9049000" />
+      <workItem from="1641538928380" duration="347000" />
+      <workItem from="1641539296617" duration="649000" />
+      <workItem from="1641539971451" duration="5965000" />
     </task>
     <task id="LOCAL-00001" summary="Flexbox">
       <created>1641289751484</created>
