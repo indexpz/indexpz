@@ -9,8 +9,9 @@
     <meta name="cdv" content="2112142102">
     <meta name="theme-color" content="007BFFFF">
     <title>IndexPZ</title>
+    <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="./../css/headerCss.css">
-    <link rel="stylesheet" href="./../css/portfolio.css">
+<!--    <link rel="stylesheet" href="./../css/portfolio.css">-->
     <script src="/js/noOpener.js" defer></script>
 </head>
 
@@ -27,43 +28,79 @@
         </ul>
     </nav>
 </header>
-<main class="portfolio">
-    <div class="portfolio-search">
-        <input id="tagInput" type="text" placeholder="Podaj technologię">
+<div class="site-container">
+    <div class="article-container">
+        <article class="article-card">
+            <figure class="article-image">
+                <img src="img/001_oldJapanPicture.png" alt="Old Japanese picture"/>
+            </figure>
+            <div class="article-content">
+                <a href="#" class="card-category">HTML CSS</a>
+                <h3 class="card-title">Old Japanese picture</h3>
+                <p class="card-excerpt">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem iure quos rem tenetur unde. Ab magnam qui ratione ut vel.</p>
+            </div>
+        </article>
+        <article class="article-card">
+            <figure class="article-image">
+                <img src="img/002_chessboard.png" alt="Chess board"/>
+            </figure>
+            <div class="article-content">
+                <a href="#" class="card-category">HTML CSS</a>
+                <h3 class="card-title">Chess board</h3>
+                <p class="card-excerpt">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem iure quos rem tenetur unde. Ab magnam qui ratione ut vel.</p>
+            </div>
+        </article>
+        <article class="article-card">
+            <figure class="article-image">
+                <img src="img/003_projektMenu.png" alt="Menu"/>
+            </figure>
+            <div class="article-content">
+                <a href="#" class="card-category">HTML CSS</a>
+                <h3 class="card-title">Simple menu</h3>
+                <p class="card-excerpt">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem iure quos rem tenetur unde. Ab magnam qui ratione ut vel.</p>
+            </div>
+        </article>
     </div>
-    <div class="portfolio-container" data-tag="html,css">
-        <div class="portfolio-img"><img src="portfolio_1_oldJapanPicture/img/result.png" alt="Old Japan picture"/></div>
-        <div class="portfolio-technology-icons">
-        </div>
-        <div class="portfolio-info">
-            <h1>Old Japan picture</h1>
-            <p>Obrazek złożony z 11 plików png responsywny na wysokość okna przeglądarki.
-                Użyte techniki: position, z-index, :nth-of-type, calc, transform, overflow. </p>
-        </div>
-        <div class="portfolio-btn">
-            <a class="portfolio-link" href="/portfolio/portfolio_1_oldJapanPicture/oldJapanPicture.html">
-                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
-                     class="bi bi-easel-fill" viewBox="0 0 16 16">
-                    <path d="M8.473.337a.5.5 0 0 0-.946 0L6.954 2H2a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h1.85l-1.323 3.837a.5.5 0 1 0 .946.326L4.908 11H7.5v2.5a.5.5 0 0 0 1 0V11h2.592l1.435 4.163a.5.5 0 0 0 .946-.326L12.15 11H14a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1H9.046L8.473.337z"/>
-                </svg>
-                Podgląd
-            </a>
-            <a class="portfolio-github" href="">
-                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-github"
-                     viewBox="0 0 16 16">
-                    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
-                </svg>
-                Github</a>
-        </div>
-    </div>
 
-    <a href="/portfolio/portfolio_2_szachownica_na_3_sposoby/chessboardInlineBlock.html">
-        <button class="btn">Szachownica inline-block</button>
-    </a>
-</main>
+</div>
+
+<!--<main class="portfolio">-->
+<!--    <div class="portfolio-search">-->
+<!--        <input id="tagInput" type="text" placeholder="Podaj technologię">-->
+<!--    </div>-->
+<!--    <div class="portfolio-container" data-tag="html,css">-->
+<!--        <div class="portfolio-img"><img src="portfolio_1_oldJapanPicture/img/result.png" alt="Old Japan picture"/></div>-->
+<!--        <div class="portfolio-technology-icons">-->
+<!--        </div>-->
+<!--        <div class="portfolio-info">-->
+<!--            <h1>Old Japan picture</h1>-->
+<!--            <p>Obrazek złożony z 11 plików png responsywny na wysokość okna przeglądarki.-->
+<!--                Użyte techniki: position, z-index, :nth-of-type, calc, transform, overflow. </p>-->
+<!--        </div>-->
+<!--        <div class="portfolio-btn">-->
+<!--            <a class="portfolio-link" href="/portfolio/portfolio_1_oldJapanPicture/oldJapanPicture.html">-->
+<!--                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"-->
+<!--                     class="bi bi-easel-fill" viewBox="0 0 16 16">-->
+<!--                    <path d="M8.473.337a.5.5 0 0 0-.946 0L6.954 2H2a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h1.85l-1.323 3.837a.5.5 0 1 0 .946.326L4.908 11H7.5v2.5a.5.5 0 0 0 1 0V11h2.592l1.435 4.163a.5.5 0 0 0 .946-.326L12.15 11H14a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1H9.046L8.473.337z"/>-->
+<!--                </svg>-->
+<!--                Podgląd-->
+<!--            </a>-->
+<!--            <a class="portfolio-github" href="">-->
+<!--                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-github"-->
+<!--                     viewBox="0 0 16 16">-->
+<!--                    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>-->
+<!--                </svg>-->
+<!--                Github</a>-->
+<!--        </div>-->
+<!--    </div>-->
+
+<!--    <a href="/portfolio/portfolio_2_szachownica_na_3_sposoby/chessboardInlineBlock.html">-->
+<!--        <button class="btn">Szachownica inline-block</button>-->
+<!--    </a>-->
+<!--</main>-->
 
 
-</button>
+
 </body>
 
 </html>

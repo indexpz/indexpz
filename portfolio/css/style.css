@@ -1,59 +1,104 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
 
-
 * {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-    font-family: "Poppins", sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+  --colorP1: #f0f4fb;
+  --colorP2: white;
+  --colorP3: #6b82a7;
+  --colorP4: #22447b;
+  --colorP5: #6b82a7;
 }
 
 body {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: nowrap;
+  background: var(--colorP1);
 }
 
-main{
-    margin-top: 35px;
-}
-form{
-    margin-top: 35px;
-}
-button {
-    font-size: 1.5rem;
-    margin: 5px 20px;
-    padding: 0px 20px;
-    height: 38px;
-    border-radius:0.85rem;
-    border: 0px;
-    background-color: hsl(211deg, 100%, 50%);
-    color: white;
+.site-container {
+  margin: 6rem auto;
+  max-width: calc(100% - 80px);
 }
 
-input, select {
-    width: 500px;
-    height: 38px;
-    font-size: 1rem;
-    border-radius: 0.25rem;
-    border: 0.5px solid lightgray;
-    padding: 6px 15px;
-    color: hsl(210, 9%, 31%);
+.article-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(256px, 1fr));
+  gap: 2rem;
 }
 
-div.info {
-    display: block;
-    margin-top: 30px;
-    width: 80vw;
-    text-align: center;
-    font-weight: 100;
-    font-size: 1.6rem;
+.article-image {
+  overflow: hidden;
+  border-radius: 20px 20px 0 0;
+  background: var(--color1);
 }
 
+.article-image img {
+  min-width: 100%;
+  height: auto;
+  object-fit: cover;
+  object-position: -100px -100px;
 
-.bold{
-    font-weight: bold;
 }
 
+.article-card {
+  background: var(--colorP2);
+  border-radius: 20px;
+  box-shadow: none;
+  transition: .3s;
+  cursor: pointer;
+  display: block;
+  width: 100%;
+  min-height: 350px;
+
+}
+
+.article-card:hover {
+  box-shadow: 0 4px 20px 0 rgba(34, 68, 123, 0.2);
+}
+
+.article-content {
+  padding: 2rem;
+}
+
+.article-content .card-category {
+  font-size: 0.875rem;
+  letter-spacing: 0.1em;
+  color: var(--colorP3);
+  display: block;
+  text-decoration: none;
+}
+
+.article-content .card-title {
+  margin: 1rem 0;
+  font-size: 1.3rem;
+  color: var(--colorP4);
+}
+
+.article-card .card-excerpt {
+  color: var(--colorP5);
+}
+
+@media screen and (min-width: 768px) {
+  .site-container {
+    max-width: 608px;
+  }
+
+  .article-card {
+    display: grid;
+    grid-template-rows: 220px 1fr;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .site-container {
+    max-width: 1156px;
+  }
+}

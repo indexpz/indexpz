@@ -4,92 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="JS &amp; JQ">
-      <change afterPath="$PROJECT_DIR$/portfolio/027_flexboxChildrenIntro/e6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/028_flexboxCalculator/css/flexboxCalculator.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/028_flexboxCalculator/flexboxCalculator.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/029_flexboxCalculator2/css/flexboxCalculator2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/029_flexboxCalculator2/flexboxCalculator2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/030_mediaQueriesRespons/css/mediaQueriesRespons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/030_mediaQueriesRespons/img/bg1280x853.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/030_mediaQueriesRespons/img/bg1920x1280.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/030_mediaQueriesRespons/img/bg640x426.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/030_mediaQueriesRespons/mediaQueriesRespons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/031_flexboxMediaQueriesGallery/css/flexboxMediaQueriesGallery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/031_flexboxMediaQueriesGallery/flexboxMediaQueriesGallery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/031_flexboxMediaQueriesGallery/img/img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/031_flexboxMediaQueriesGallery/img/img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/031_flexboxMediaQueriesGallery/img/img3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/031_flexboxMediaQueriesGallery/img/img4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/032_menuRespons/css/menuRespons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/032_menuRespons/menuRespons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/033_layoutFlexbox/css/layoutFlexbox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/033_layoutFlexbox/layoutFlexbox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/034_layoutGrid/css/layoutGrid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/034_layoutGrid/layoutGrid.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/035_priceListFlexbox/css/priceListFlexbox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/035_priceListFlexbox/img/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/035_priceListFlexbox/img/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/035_priceListFlexbox/img/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/035_priceListFlexbox/priceListFlexbox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/035_priceListFlexbox/start.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/036_jsAddeventListenerButton/css/jsAddeventListenerButton.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/036_jsAddeventListenerButton/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/036_jsAddeventListenerButton/jsAddeventListenerButton.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/037_jsToggleClassName/css/jsToggleClassName.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/037_jsToggleClassName/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/037_jsToggleClassName/jsToggleClassName.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/038_jsRotateOnClick/css/jsRotateOnClick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/038_jsRotateOnClick/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/038_jsRotateOnClick/jsRotateOnClick.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/039_js_jqAddBoxAfterClick/css/jsAddBoxAfterClick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/039_js_jqAddBoxAfterClick/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/039_js_jqAddBoxAfterClick/js/jqApp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/039_js_jqAddBoxAfterClick/js/jquery-3.6.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/039_js_jqAddBoxAfterClick/js_jqAddBoxAfterClick.html" afterDir="false" />
+    <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="JS &amp; JQ cd">
+      <change afterPath="$PROJECT_DIR$/portfolio/040_jQuery/css/jQuery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/040_jQuery/e3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/040_jQuery/jQuery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/040_jQuery/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/040_jQuery/js/e3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/img/001_oldJapanPicture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/img/002_chessboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/img/003_projektMenu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/indexpz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/indexpz.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/27_flexboxChildrenIntro/e6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/28_flexboxCalculator/css/flexboxCalculator.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/28_flexboxCalculator/flexboxCalculator.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/29_flexboxCalculator2/css/flexboxCalculator2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/29_flexboxCalculator2/flexboxCalculator2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/30_mediaQueriesRespons/css/mediaQueriesRespons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/30_mediaQueriesRespons/img/bg1280x853.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/30_mediaQueriesRespons/img/bg1920x1280.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/30_mediaQueriesRespons/img/bg640x426.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/30_mediaQueriesRespons/mediaQueriesRespons.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/31_flexboxMediaQueriesGallery/css/flexboxMediaQueriesGallery.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/31_flexboxMediaQueriesGallery/flexboxMediaQueriesGallery.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/31_flexboxMediaQueriesGallery/img/img1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/31_flexboxMediaQueriesGallery/img/img2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/31_flexboxMediaQueriesGallery/img/img3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/31_flexboxMediaQueriesGallery/img/img4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/32_menuRespons/css/menuRespons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/32_menuRespons/menuRespons.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/33_layoutFlexbox/css/layoutFlexbox.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/33_layoutFlexbox/layoutFlexbox.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/34_layoutGrid/css/layoutGrid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/34_layoutGrid/layoutGrid.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/35_priceListFlexbox/css/priceListFlexbox.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/35_priceListFlexbox/img/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/35_priceListFlexbox/img/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/35_priceListFlexbox/img/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/35_priceListFlexbox/priceListFlexbox.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/035_priceListFlexbox/start.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/35_priceListFlexbox/start.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/36_jsAddeventListenerButton/css/jsAddeventListenerButton.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/36_jsAddeventListenerButton/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/36_jsAddeventListenerButton/jsAddeventListenerButton.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/37_jsToggleClassName/css/jsToggleClassName.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/37_jsToggleClassName/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/37_jsToggleClassName/jsToggleClassName.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/38_jsRotateOnClick/css/jsRotateOnClick.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/38_jsRotateOnClick/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/38_jsRotateOnClick/jsRotateOnClick.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/39_jsAddBoxAfterClick/css/jsAddBoxAfterClick.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/39_jsAddBoxAfterClick/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/39_jsAddBoxAfterClick/js/jqApp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/39_jsAddBoxAfterClick/js/jquery-3.6.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/39_jsAddBoxAfterClick/jsAddBoxAfterClick.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,8 +28,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -125,7 +54,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/portfolio/37_jsToggleClassName/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/portfolio/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -137,13 +66,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/portfolio/img" />
       <recent name="$PROJECT_DIR$/portfolio/37_jsToggleClassName/js" />
       <recent name="$PROJECT_DIR$/portfolio/36_jsAddeventListenerButton/js" />
       <recent name="$PROJECT_DIR$/portfolio/32_menuRespons" />
       <recent name="$PROJECT_DIR$/toLoad/headerNav" />
-      <recent name="$PROJECT_DIR$/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/portfolio/040_jQuery" />
+      <recent name="$PROJECT_DIR$/portfolio/040_jQuery/js" />
       <recent name="$PROJECT_DIR$/portfolio/portfolio_2_szachownica_na_3_sposoby" />
       <recent name="$PROJECT_DIR$/portfolio" />
       <recent name="$PROJECT_DIR$/toLoad" />
@@ -177,7 +108,8 @@
       <workItem from="1641493874582" duration="9049000" />
       <workItem from="1641538928380" duration="347000" />
       <workItem from="1641539296617" duration="649000" />
-      <workItem from="1641539971451" duration="8294000" />
+      <workItem from="1641539971451" duration="9149000" />
+      <workItem from="1641653546966" duration="12041000" />
     </task>
     <task id="LOCAL-00001" summary="Flexbox">
       <created>1641289751484</created>
@@ -200,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641553004797</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="JS &amp; JQ cd">
+      <created>1641562003093</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1641562003093</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,7 +165,8 @@
     <MESSAGE value="Flexbox" />
     <MESSAGE value="Flexbox cd" />
     <MESSAGE value="JS &amp; JQ" />
-    <option name="LAST_COMMIT_MESSAGE" value="JS &amp; JQ" />
+    <MESSAGE value="JS &amp; JQ cd" />
+    <option name="LAST_COMMIT_MESSAGE" value="JS &amp; JQ cd" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
