@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="JS &amp; JQ cd">
-      <change afterPath="$PROJECT_DIR$/portfolio/040_jQuery/css/jQuery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/040_jQuery/e3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/040_jQuery/jQuery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/040_jQuery/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/040_jQuery/js/e3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/img/001_oldJapanPicture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/img/002_chessboard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/img/003_projektMenu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/indexpz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/indexpz.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/035_priceListFlexbox/start.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/35_priceListFlexbox/start.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio.html" afterDir="false" />
+    <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="jQuery intro">
+      <change beforePath="$PROJECT_DIR$/portfolio/040_jQuery/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/040_jQuery/js/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +96,7 @@
       <workItem from="1641538928380" duration="347000" />
       <workItem from="1641539296617" duration="649000" />
       <workItem from="1641539971451" duration="9149000" />
-      <workItem from="1641653546966" duration="12041000" />
+      <workItem from="1641653546966" duration="12201000" />
     </task>
     <task id="LOCAL-00001" summary="Flexbox">
       <created>1641289751484</created>
@@ -139,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641562003093</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="jQuery intro">
+      <created>1641676524917</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1641676524917</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,7 +160,8 @@
     <MESSAGE value="Flexbox cd" />
     <MESSAGE value="JS &amp; JQ" />
     <MESSAGE value="JS &amp; JQ cd" />
-    <option name="LAST_COMMIT_MESSAGE" value="JS &amp; JQ cd" />
+    <MESSAGE value="jQuery intro" />
+    <option name="LAST_COMMIT_MESSAGE" value="jQuery intro" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
