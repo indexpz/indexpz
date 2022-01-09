@@ -4,30 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="jQuery intro">
-      <change afterPath="$PROJECT_DIR$/portfolio/041_jQueryInterface/css/jQueryInterface.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/041_jQueryInterface/jQueryInterface.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/041_jQueryInterface/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/042_menuHamburgerOnlyCSS/css/menuHamburgerOnlyCSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/042_menuHamburgerOnlyCSS/menuHamburgerOnlyCSS.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/043_menuHamburgerJS/css/menuHamburgerJS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/043_menuHamburgerJS/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/043_menuHamburgerJS/menuHamburgerJS.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/044_menuHamburgerIcon/css/menuHamburgerIcon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/044_menuHamburgerIcon/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/044_menuHamburgerIcon/menuHamburgerIcon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/045_menuHamburgerJQuery/css/menuHamburgerJQuery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/045_menuHamburgerJQuery/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/045_menuHamburgerJQuery/menuHamburgerJQuery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/046_menuHamburgerImplementation/css/menuHamburgerImplementation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/046_menuHamburgerImplementation/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/046_menuHamburgerImplementation/menuHamburgerImplementation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/047_menuHamburgerFromTop/css/menuHamburgerFromTop.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/047_menuHamburgerFromTop/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/047_menuHamburgerFromTop/menuHamburgerFromTop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/048_menuFooterFromBottom/css/menuFooterFromBottom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/048_menuFooterFromBottom/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/048_menuFooterFromBottom/menuFooterFromBottom.html" afterDir="false" />
+    <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="js &amp; jQuery menus">
+      <change afterPath="$PROJECT_DIR$/portfolio/049_popUpModalJQuery/css/popUpModalJQuery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/049_popUpModalJQuery/img/image640.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/049_popUpModalJQuery/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/049_popUpModalJQuery/popUpModalJQuery.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,9 +19,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -72,23 +53,23 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/portfolio/048_menuFooterFromBottom" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/portfolio/049_popUpModalJQuery" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/portfolio/049_popUpModalJQuery" />
       <recent name="$PROJECT_DIR$/portfolio/048_menuFooterFromBottom" />
       <recent name="$PROJECT_DIR$/portfolio/046_menuHamburgerImplementation" />
       <recent name="$PROJECT_DIR$/portfolio/045_menuHamburgerJQuery" />
       <recent name="$PROJECT_DIR$/portfolio/044_menuHamburgerIcon" />
-      <recent name="$PROJECT_DIR$/portfolio/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/portfolio" />
@@ -128,7 +109,7 @@
       <workItem from="1641539296617" duration="649000" />
       <workItem from="1641539971451" duration="9149000" />
       <workItem from="1641653546966" duration="13822000" />
-      <workItem from="1641726526582" duration="17856000" />
+      <workItem from="1641726526582" duration="21894000" />
     </task>
     <task id="LOCAL-00001" summary="Flexbox">
       <created>1641289751484</created>
@@ -172,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641676562058</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="js &amp; jQuery menus">
+      <created>1641759205433</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1641759205433</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,7 +188,8 @@
     <MESSAGE value="JS &amp; JQ" />
     <MESSAGE value="JS &amp; JQ cd" />
     <MESSAGE value="jQuery intro" />
-    <option name="LAST_COMMIT_MESSAGE" value="jQuery intro" />
+    <MESSAGE value="js &amp; jQuery menus" />
+    <option name="LAST_COMMIT_MESSAGE" value="js &amp; jQuery menus" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
