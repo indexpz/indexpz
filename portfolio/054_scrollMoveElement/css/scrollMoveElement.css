@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  font-size: 10px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: block;
+}
+
+
+/* body {
+ overflow-x: hidden
+} */
+nav {
+  height: 10vh;
+  background-color: black;
+}
+
+header {
+  height: 70vh;
+  background-color: royalblue;
+}
+
+.about,
+.quotes {
+  margin: 90px 0;
+}
+
+.about h1,
+.quotes h1 {
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+/* ABOUT */
+.about h2 {
+  background-color: royalblue;
+  padding: 20px 0 20px 10vw;
+  font-size: 30px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: normal;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.about img {
+  float: left;
+  padding: 0 30px;
+}
+
+.about p {
+  font-size: 20px;
+  padding-right: 40px;
+  line-height: 2;
+}
+
+.about article {
+  margin-bottom: 30px;
+}
+
+.about .art2,
+.about .art4 {
+  transform: translateX(100vw);
+  transition: 2s;
+}
+
+
+.about .art3 {
+  transform: translateX(-100vw);
+  transition: 2s;
+}
+
+
+.about .art2.active,
+.about .art3.active,
+.about .art4.active {
+  transform: translateX(0);
+}
+
+
+/* QUOTES */
+.quotes {
+  padding: 0 20px;
+}
+
+.quotes p {
+  font-size: 20px;
+  margin: 20px 10px;
+}
+
+.quotes p span {
+  color: royalblue;
+  font-size: 20px;
+}
+
+.quotes article {
+  margin-bottom: 60px;
+}
+
+.quotes img {
+  display: block;
+  width: 100%;
+  margin: 0 10px;
+}
+
+.quotes article {
+  transform: scale(0);
+  transition: 3s;
+}
+
+.quotes article.active{
+  transform: scale(1);
+}
+
+/* Footer */
+footer {
+  line-height: 80px;
+  background-color: #000;
+  text-align: center;
+  color: white;
+  font-size: 22px;
+}
