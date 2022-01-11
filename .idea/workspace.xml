@@ -4,30 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="js &amp; jQuery pop-up modal">
-      <change afterPath="$PROJECT_DIR$/portfolio/050_scrollingMenuToSectionWithAnimation/css/scrollingMenuToSectionWithAnimation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/050_scrollingMenuToSectionWithAnimation/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/050_scrollingMenuToSectionWithAnimation/scrollingMenuToSectionWithAnimation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/051_scrollJQuery/css/scrollJQuery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/051_scrollJQuery/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/051_scrollJQuery/scrollJQuery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/052_scrollJQueryInfoAboutSection/css/scrollJQueryInfoAboutSection.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/052_scrollJQueryInfoAboutSection/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/052_scrollJQueryInfoAboutSection/scrollJQueryInfoAboutSection.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/053_scrollJSInfoAboutSection/css/scrollJSInfoAboutSection.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/053_scrollJSInfoAboutSection/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/053_scrollJSInfoAboutSection/scrollJSInfoAboutSection.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/054_scrollMoveElement/css/scrollMoveElement.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/054_scrollMoveElement/icons/briefcase.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/054_scrollMoveElement/icons/diploma.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/054_scrollMoveElement/icons/heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/054_scrollMoveElement/icons/plant.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/054_scrollMoveElement/img/team.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/054_scrollMoveElement/img/team2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/054_scrollMoveElement/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/054_scrollMoveElement/scrollMoveElement.html" afterDir="false" />
+    <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="animate baner">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/055_sliderBannerAnimationHTML_CSS_JS/css/sliderBannerAnimationHTML_CSS_JS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/055_sliderBannerAnimationHTML_CSS_JS/img/s1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/055_sliderBannerAnimationHTML_CSS_JS/img/s1a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/055_sliderBannerAnimationHTML_CSS_JS/img/s2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/055_sliderBannerAnimationHTML_CSS_JS/img/s2a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/055_sliderBannerAnimationHTML_CSS_JS/img/s3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/055_sliderBannerAnimationHTML_CSS_JS/img/s3a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/055_sliderBannerAnimationHTML_CSS_JS/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/055_sliderBannerAnimationHTML_CSS_JS/sliderBannerAnimationHTML_CSS_JS.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/049_popUpModalJQuery/css/popUpModalJQuery.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/049_popUpModalJQuery/css/popUpModalJQuery.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +26,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -67,11 +55,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/portfolio/054_scrollMoveElement/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/portfolio/055_sliderBannerAnimationHTML_CSS" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -83,11 +73,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/portfolio/055_sliderBannerAnimationHTML_CSS" />
       <recent name="$PROJECT_DIR$/portfolio/054_scrollMoveElement/css" />
       <recent name="$PROJECT_DIR$/portfolio/054_scrollMoveElement" />
       <recent name="$PROJECT_DIR$/portfolio/053_scrollJSInfoAboutSection" />
       <recent name="$PROJECT_DIR$/portfolio/052_scrollJQueryInfoAboutSection" />
-      <recent name="$PROJECT_DIR$/portfolio/050_scrollingMenuToSectionWithAnimation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/portfolio" />
@@ -137,7 +127,8 @@
       <workItem from="1641802472112" duration="2000" />
       <workItem from="1641802696456" duration="258000" />
       <workItem from="1641803169380" duration="49000" />
-      <workItem from="1641803336644" duration="16933000" />
+      <workItem from="1641803336644" duration="17659000" />
+      <workItem from="1641887931770" duration="11219000" />
     </task>
     <task id="LOCAL-00001" summary="Flexbox">
       <created>1641289751484</created>
@@ -195,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641763269074</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="js &amp; jQuery scroll">
+      <created>1641842241420</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1641842241420</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,7 +223,9 @@
     <MESSAGE value="jQuery intro" />
     <MESSAGE value="js &amp; jQuery menus" />
     <MESSAGE value="js &amp; jQuery pop-up modal" />
-    <option name="LAST_COMMIT_MESSAGE" value="js &amp; jQuery pop-up modal" />
+    <MESSAGE value="js &amp; jQuery scroll" />
+    <MESSAGE value="animate baner" />
+    <option name="LAST_COMMIT_MESSAGE" value="animate baner" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
