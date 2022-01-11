@@ -5,16 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="animate baner">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/055_sliderBannerAnimationHTML_CSS_JS/css/sliderBannerAnimationHTML_CSS_JS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/055_sliderBannerAnimationHTML_CSS_JS/img/s1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/055_sliderBannerAnimationHTML_CSS_JS/img/s1a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/055_sliderBannerAnimationHTML_CSS_JS/img/s2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/055_sliderBannerAnimationHTML_CSS_JS/img/s2a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/055_sliderBannerAnimationHTML_CSS_JS/img/s3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/055_sliderBannerAnimationHTML_CSS_JS/img/s3a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/055_sliderBannerAnimationHTML_CSS_JS/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/055_sliderBannerAnimationHTML_CSS_JS/sliderBannerAnimationHTML_CSS_JS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgagesController/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgagesController/img/SCC_305_KV_swiateczny_DIGITAL.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgagesController/img/SCC_305_KV_swiateczny_DIGITAL2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgagesController/img/SCC_305_KV_swiateczny_DIGITAL3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgagesController/img/SCC_305_KV_swiateczny_DIGITAL4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgagesController/img/SCC_305_KV_swiateczny_DIGITAL5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgagesController/img/SCC_305_KV_swiateczny_DIGITAL6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgagesController/img/SCC_305_KV_swiateczny_DIGITAL7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgagesController/img/SCC_305_KV_swiateczny_DIGITAL8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgagesController/imgController.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgagesController/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgagesController/js/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +63,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/portfolio/055_sliderBannerAnimationHTML_CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/imgagesController/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -73,18 +75,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/imgagesController/img" />
       <recent name="$PROJECT_DIR$/portfolio/055_sliderBannerAnimationHTML_CSS" />
       <recent name="$PROJECT_DIR$/portfolio/054_scrollMoveElement/css" />
       <recent name="$PROJECT_DIR$/portfolio/054_scrollMoveElement" />
       <recent name="$PROJECT_DIR$/portfolio/053_scrollJSInfoAboutSection" />
-      <recent name="$PROJECT_DIR$/portfolio/052_scrollJQueryInfoAboutSection" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/imgagesController/js" />
       <recent name="$PROJECT_DIR$/portfolio" />
       <recent name="$PROJECT_DIR$/portfolio/044_menuHamburgerIcon" />
       <recent name="$PROJECT_DIR$/portfolio/043_menuHamburgerJS" />
       <recent name="$PROJECT_DIR$/portfolio/040_jQuery" />
-      <recent name="$PROJECT_DIR$/portfolio/040_jQuery/js" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -128,7 +130,8 @@
       <workItem from="1641802696456" duration="258000" />
       <workItem from="1641803169380" duration="49000" />
       <workItem from="1641803336644" duration="17659000" />
-      <workItem from="1641887931770" duration="11219000" />
+      <workItem from="1641887931770" duration="11243000" />
+      <workItem from="1641908029514" duration="8304000" />
     </task>
     <task id="LOCAL-00001" summary="Flexbox">
       <created>1641289751484</created>
@@ -193,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641842241420</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="animate baner">
+      <created>1641902499691</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1641902499691</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
