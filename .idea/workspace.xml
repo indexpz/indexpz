@@ -4,40 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="Image Controller">
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/css/gallery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/dist/css/lightbox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/dist/css/lightbox.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/dist/images/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/dist/images/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/dist/images/next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/dist/images/prev.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/dist/js/lightbox-plus-jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/dist/js/lightbox-plus-jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/dist/js/lightbox-plus-jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/dist/js/lightbox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/dist/js/lightbox.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/dist/js/lightbox.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/gallery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/thumb1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/thumb2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/thumb3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/thumb4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/thumb5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/thumb6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/thumb7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/thumb8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/thumb9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/js/app.js" afterDir="false" />
+    <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="Gallery lightbox">
+      <change afterPath="$PROJECT_DIR$/portfolio/057_sassIntro/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/057_sassIntro/css/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/057_sassIntro/css/style.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/057_sassIntro/sassIntro.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -80,9 +51,9 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/portfolio/056_gallery" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -91,7 +62,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -153,7 +124,7 @@
       <workItem from="1641803336644" duration="17659000" />
       <workItem from="1641887931770" duration="11243000" />
       <workItem from="1641908029514" duration="8956000" />
-      <workItem from="1641977282816" duration="4800000" />
+      <workItem from="1641977282816" duration="10815000" />
     </task>
     <task id="LOCAL-00001" summary="Flexbox">
       <created>1641289751484</created>
@@ -232,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641939885655</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Gallery lightbox">
+      <created>1641985159827</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1641985159827</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,7 +243,8 @@
     <MESSAGE value="js &amp; jQuery scroll" />
     <MESSAGE value="animate baner" />
     <MESSAGE value="Image Controller" />
-    <option name="LAST_COMMIT_MESSAGE" value="Image Controller" />
+    <MESSAGE value="Gallery lightbox" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gallery lightbox" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
