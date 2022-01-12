@@ -4,19 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="animate baner">
-      <change afterPath="$PROJECT_DIR$/imgagesController/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgagesController/img/SCC_305_KV_swiateczny_DIGITAL.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgagesController/img/SCC_305_KV_swiateczny_DIGITAL2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgagesController/img/SCC_305_KV_swiateczny_DIGITAL3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgagesController/img/SCC_305_KV_swiateczny_DIGITAL4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgagesController/img/SCC_305_KV_swiateczny_DIGITAL5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgagesController/img/SCC_305_KV_swiateczny_DIGITAL6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgagesController/img/SCC_305_KV_swiateczny_DIGITAL7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgagesController/img/SCC_305_KV_swiateczny_DIGITAL8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgagesController/imgController.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgagesController/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgagesController/js/index.js" afterDir="false" />
+    <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="Image Controller">
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/css/gallery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/dist/css/lightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/dist/css/lightbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/dist/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/dist/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/dist/images/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/dist/images/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/dist/js/lightbox-plus-jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/dist/js/lightbox-plus-jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/dist/js/lightbox-plus-jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/dist/js/lightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/dist/js/lightbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/dist/js/lightbox.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/gallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/thumb1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/thumb2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/thumb3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/thumb4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/thumb5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/thumb6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/thumb7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/thumb8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/img/thumb9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/056_gallery/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,9 +48,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -63,7 +84,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/imgagesController/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/portfolio/056_gallery" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -75,11 +96,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/portfolio/056_gallery" />
+      <recent name="$PROJECT_DIR$/portfolio/056_gallery/img" />
       <recent name="$PROJECT_DIR$/imgagesController/img" />
       <recent name="$PROJECT_DIR$/portfolio/055_sliderBannerAnimationHTML_CSS" />
       <recent name="$PROJECT_DIR$/portfolio/054_scrollMoveElement/css" />
-      <recent name="$PROJECT_DIR$/portfolio/054_scrollMoveElement" />
-      <recent name="$PROJECT_DIR$/portfolio/053_scrollJSInfoAboutSection" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/imgagesController/js" />
@@ -131,7 +152,8 @@
       <workItem from="1641803169380" duration="49000" />
       <workItem from="1641803336644" duration="17659000" />
       <workItem from="1641887931770" duration="11243000" />
-      <workItem from="1641908029514" duration="8304000" />
+      <workItem from="1641908029514" duration="8956000" />
+      <workItem from="1641977282816" duration="4800000" />
     </task>
     <task id="LOCAL-00001" summary="Flexbox">
       <created>1641289751484</created>
@@ -203,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641902499691</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Image Controller">
+      <created>1641939885655</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1641939885655</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,7 +264,8 @@
     <MESSAGE value="js &amp; jQuery pop-up modal" />
     <MESSAGE value="js &amp; jQuery scroll" />
     <MESSAGE value="animate baner" />
-    <option name="LAST_COMMIT_MESSAGE" value="animate baner" />
+    <MESSAGE value="Image Controller" />
+    <option name="LAST_COMMIT_MESSAGE" value="Image Controller" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
