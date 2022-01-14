@@ -1,0 +1,22 @@
+nav
+
+  ul
+    +flex_direction_justify(row, space-around)
+    li
+      list-style: none
+      width: 20%
+      a
+        display: block
+        text-decoration: none
+        background-color: $background-color
+        padding: 20px 15px
+        font-size: 1.5rem
+        cursor: pointer
+        color: $font-color
+        transition: 0.3s
+        line-height: 20%
+        text-align: center
+        //text-transform: uppercase
+        &:hover
+          background-color: red
+
