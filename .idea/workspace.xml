@@ -5,24 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="sass">
-      <change afterPath="$PROJECT_DIR$/portfolio/057_sassIntro/css/_header.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/057_sassIntro/css/_mixins.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/057_sassIntro/css/_nav.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/057_sassIntro/css/_variables.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/058_btnSASS/btnSASS.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/058_btnSASS/css/_mixins.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/058_btnSASS/css/_nav1.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/058_btnSASS/css/_reset.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/058_btnSASS/css/_variables.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/058_btnSASS/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/058_btnSASS/css/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/058_btnSASS/css/style.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/059_react_Intro/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/059_react_Intro/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/060_react_JSX/css/react_JSX.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/060_react_JSX/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/060_react_JSX/react_JSX.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/061_react_JSX_cd/css/react_JSX.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/061_react_JSX_cd/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/061_react_JSX_cd/react_JSX.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/062_react_craeatingComponents/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/062_react_craeatingComponents/react_craeatingComponents.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/063_react_object_State&amp;Props/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/063_react_object_State&amp;Props/react_object_State&amp;Props.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/indexpz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/indexpz.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/057_sassIntro/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/057_sassIntro/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/057_sassIntro/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/057_sassIntro/css/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/057_sassIntro/css/style.sass" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/057_sassIntro/css/style.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/057_sassIntro/sassIntro.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/057_sassIntro/sassIntro.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +29,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -52,6 +49,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="22gf2KLOVEh0utCNdAddUgTCzfH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -67,7 +67,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/portfolio/056_gallery" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JavaScript&#10;CSS&#10;HTML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/portfolio" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -79,16 +80,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/portfolio" />
+      <recent name="$PROJECT_DIR$/portfolio/060_react_JSX" />
+      <recent name="$PROJECT_DIR$/portfolio/059_react_Intro" />
       <recent name="$PROJECT_DIR$/portfolio/056_gallery" />
       <recent name="$PROJECT_DIR$/portfolio/056_gallery/img" />
-      <recent name="$PROJECT_DIR$/imgagesController/img" />
-      <recent name="$PROJECT_DIR$/portfolio/055_sliderBannerAnimationHTML_CSS" />
-      <recent name="$PROJECT_DIR$/portfolio/054_scrollMoveElement/css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/portfolio" />
       <recent name="$PROJECT_DIR$/portfolio/058_btnSASS/css" />
       <recent name="$PROJECT_DIR$/imgagesController/js" />
-      <recent name="$PROJECT_DIR$/portfolio" />
       <recent name="$PROJECT_DIR$/portfolio/044_menuHamburgerIcon" />
       <recent name="$PROJECT_DIR$/portfolio/043_menuHamburgerJS" />
     </key>
@@ -139,6 +140,7 @@
       <workItem from="1641977282816" duration="10857000" />
       <workItem from="1642070463690" duration="7396000" />
       <workItem from="1642143887833" duration="427000" />
+      <workItem from="1642145082338" duration="12035000" />
     </task>
     <task id="LOCAL-00001" summary="Flexbox">
       <created>1641289751484</created>
@@ -238,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642024051381</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="sass">
+      <created>1642145354786</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1642145354786</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
