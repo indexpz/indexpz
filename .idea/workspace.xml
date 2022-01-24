@@ -4,22 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="sass">
-      <change afterPath="$PROJECT_DIR$/portfolio/059_react_Intro/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/059_react_Intro/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/060_react_JSX/css/react_JSX.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/060_react_JSX/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/060_react_JSX/react_JSX.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/061_react_JSX_cd/css/react_JSX.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/061_react_JSX_cd/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/061_react_JSX_cd/react_JSX.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/062_react_craeatingComponents/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/062_react_craeatingComponents/react_craeatingComponents.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/063_react_object_State&amp;Props/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/063_react_object_State&amp;Props/react_object_State&amp;Props.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/indexpz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/indexpz.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+    <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="React intro">
+      <change afterPath="$PROJECT_DIR$/portfolio/064_react_object_State&amp;Props/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/064_react_object_State&amp;Props/react_object_State&amp;Props.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/065_react_addSignAfterClick/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/065_react_addSignAfterClick/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/065_react_addSignAfterClick/react_addSignAfterClick.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/066_react_addSignAfterClick_bind_stateInConsructor/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/066_react_addSignAfterClick_bind_stateInConsructor/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/066_react_addSignAfterClick_bind_stateInConsructor/react_addSignAfterClick_bind_stateInConsructor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/067_react_addSignAfterClick_newComponent_randomNumbers/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/067_react_addSignAfterClick_newComponent_randomNumbers/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/067_react_addSignAfterClick_newComponent_randomNumbers/react_addSignAfterClick_newComponent_randomNumbers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/068_react_showTextFromInput/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/068_react_showTextFromInput/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/068_react_showTextFromInput/react_showTextFromInput.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/069_react_buttonShowHide/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/069_react_buttonShowHide/js/message.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/069_react_buttonShowHide/react_buttonShowHide.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/070_react_clickCounter/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/070_react_clickCounter/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/070_react_clickCounter/react_clickCounter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/100_react/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/100_react/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/100_react/react_.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/063_react_object_State&amp;Props/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/063_react_app_addLetterAfterClick/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/063_react_object_State&amp;Props/react_object_State&amp;Props.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/063_react_app_addLetterAfterClick/react_.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +40,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -81,17 +92,17 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/portfolio" />
+      <recent name="$PROJECT_DIR$/portfolio/100_react" />
+      <recent name="$PROJECT_DIR$/portfolio/065_react_addSignAfterClick" />
       <recent name="$PROJECT_DIR$/portfolio/060_react_JSX" />
       <recent name="$PROJECT_DIR$/portfolio/059_react_Intro" />
-      <recent name="$PROJECT_DIR$/portfolio/056_gallery" />
-      <recent name="$PROJECT_DIR$/portfolio/056_gallery/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/portfolio" />
+      <recent name="$PROJECT_DIR$/portfolio/" />
       <recent name="$PROJECT_DIR$/portfolio/058_btnSASS/css" />
       <recent name="$PROJECT_DIR$/imgagesController/js" />
       <recent name="$PROJECT_DIR$/portfolio/044_menuHamburgerIcon" />
-      <recent name="$PROJECT_DIR$/portfolio/043_menuHamburgerJS" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -140,7 +151,14 @@
       <workItem from="1641977282816" duration="10857000" />
       <workItem from="1642070463690" duration="7396000" />
       <workItem from="1642143887833" duration="427000" />
-      <workItem from="1642145082338" duration="12035000" />
+      <workItem from="1642145082338" duration="12462000" />
+      <workItem from="1642415124636" duration="3504000" />
+      <workItem from="1642520209271" duration="193000" />
+      <workItem from="1642680264100" duration="334000" />
+      <workItem from="1642688368235" duration="621000" />
+      <workItem from="1642756515113" duration="3286000" />
+      <workItem from="1642789774266" duration="1416000" />
+      <workItem from="1643022278784" duration="20573000" />
     </task>
     <task id="LOCAL-00001" summary="Flexbox">
       <created>1641289751484</created>
@@ -247,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642145354786</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="React intro">
+      <created>1642279659234</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1642279659234</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,7 +307,8 @@
     <MESSAGE value="Image Controller" />
     <MESSAGE value="Gallery lightbox" />
     <MESSAGE value="sass" />
-    <option name="LAST_COMMIT_MESSAGE" value="sass" />
+    <MESSAGE value="React intro" />
+    <option name="LAST_COMMIT_MESSAGE" value="React intro" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
