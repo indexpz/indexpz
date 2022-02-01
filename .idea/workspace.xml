@@ -4,60 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="React intro">
-      <change afterPath="$PROJECT_DIR$/portfolio/070_react_clickCounter_buttonsComponent/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/070_react_clickCounter_buttonsComponent/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/071_react_clickCounter_showResultComponent/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/071_react_clickCounter_showResultComponent/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/071_react_clickCounter_showResultComponent/react_clickCounter_showResultComponent.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/072_react_devAndProductionVersion/react_devAndProductionVersion.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/073_react_checkBox_v1/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/073_react_checkBox_v1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/073_react_checkBox_v1/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/074_react_checkBox_v2/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/074_react_checkBox_v2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/074_react_checkBox_v2/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/075_react_checkBox_v3/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/075_react_checkBox_v3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/075_react_checkBox_v3/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/076_react_checkBox_v4/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/076_react_checkBox_v4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/076_react_checkBox_v4/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/077_react_shoppingCart/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/077_react_shoppingCart/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/077_react_shoppingCart/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/078_react_shoppingCart_destrukturyzacja/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/078_react_shoppingCart_destrukturyzacja/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/078_react_shoppingCart_destrukturyzacja/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/079_react_arrays/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/079_react_arrays/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/079_react_arrays/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/080_react_arrays_with_objects/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/080_react_arrays_with_objects/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/080_react_arrays_with_objects/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/081_react_arrays_with_objects_filter/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/081_react_arrays_with_objects_filter/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/081_react_arrays_with_objects_filter/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/082_react_restaurantMenu/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/082_react_restaurantMenu/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/082_react_restaurantMenu/js/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/082_react_restaurantMenu/js/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/082_react_restaurantMenu/js/Item.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/082_react_restaurantMenu/js/ListItems.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/082_react_restaurantMenu/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/200_react_production/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/200_react_production/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/200_react_production/react_.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/201_react_developer/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/201_react_developer/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/201_react_developer/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/Powtorka_react_checkBox_v4/077_react_checkbox_powtorka/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/Powtorka_react_checkBox_v4/077_react_checkbox_powtorka/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/Powtorka_react_checkBox_v4/077_react_checkbox_powtorka/js/app.js" afterDir="false" />
+    <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="React simply projects">
+      <change afterPath="$PROJECT_DIR$/portfolio/084_react_FORMS_handleChange/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/084_react_FORMS_handleChange/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/084_react_FORMS_handleChange/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/100_react/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/072_react_devAndProductionVersion/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/100_react/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/072_react_devAndProductionVersion/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/100_react/react_.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/070_react_clickCounter_buttonsComponent/react_clickCounter_buttonsComponent.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/083_react_forms/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/083_react_FORMS/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/083_react_forms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/083_react_FORMS/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/083_react_forms/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/083_react_FORMS/js/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +145,7 @@
       <workItem from="1643471981619" duration="7641000" />
       <workItem from="1643565299449" duration="3454000" />
       <workItem from="1643620433549" duration="9453000" />
-      <workItem from="1643708950771" duration="12884000" />
+      <workItem from="1643708950771" duration="18431000" />
     </task>
     <task id="LOCAL-00001" summary="Flexbox">
       <created>1641289751484</created>
@@ -305,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642279659234</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="React simply projects">
+      <created>1643728664012</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1643728664012</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,7 +302,8 @@
     <MESSAGE value="Gallery lightbox" />
     <MESSAGE value="sass" />
     <MESSAGE value="React intro" />
-    <option name="LAST_COMMIT_MESSAGE" value="React intro" />
+    <MESSAGE value="React simply projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="React simply projects" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
