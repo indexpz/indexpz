@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="React simply projects">
-      <change afterPath="$PROJECT_DIR$/portfolio/084_react_FORMS_handleChange/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/084_react_FORMS_handleChange/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/084_react_FORMS_handleChange/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/085_react_ExchangeCounter/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/085_react_ExchangeCounter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/085_react_ExchangeCounter/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/085_react_ExchangeCounter_optymalization/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/085_react_ExchangeCounter_optymalization/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/085_react_ExchangeCounter_optymalization/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/086_react_ExchangeCounter_update/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/086_react_ExchangeCounter_update/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/086_react_ExchangeCounter_update/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/083_react_forms/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/083_react_FORMS/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/083_react_forms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/083_react_FORMS/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/083_react_forms/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/083_react_FORMS/js/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +148,8 @@
       <workItem from="1643471981619" duration="7641000" />
       <workItem from="1643565299449" duration="3454000" />
       <workItem from="1643620433549" duration="9453000" />
-      <workItem from="1643708950771" duration="18431000" />
+      <workItem from="1643708950771" duration="18580000" />
+      <workItem from="1643797827430" duration="6650000" />
     </task>
     <task id="LOCAL-00001" summary="Flexbox">
       <created>1641289751484</created>
@@ -266,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643728664012</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="React simply projects">
+      <created>1643751913001</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1643751913001</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
