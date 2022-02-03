@@ -4,17 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="React simply projects">
-      <change afterPath="$PROJECT_DIR$/portfolio/085_react_ExchangeCounter/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/085_react_ExchangeCounter/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/085_react_ExchangeCounter/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/085_react_ExchangeCounter_optymalization/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/085_react_ExchangeCounter_optymalization/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/085_react_ExchangeCounter_optymalization/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/086_react_ExchangeCounter_update/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/086_react_ExchangeCounter_update/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/086_react_ExchangeCounter_update/js/app.js" afterDir="false" />
+    <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="React simply projects cd">
+      <change afterPath="$PROJECT_DIR$/portfolio/087_react_fortuneTelling/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/087_react_fortuneTelling/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/087_react_fortuneTelling/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/088_react_List/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/088_react_List/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/088_react_List/js/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/088_react_List/js/UsersList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/088_react_List/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/201_react_developer/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/201_react_developer/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +149,7 @@
       <workItem from="1643565299449" duration="3454000" />
       <workItem from="1643620433549" duration="9453000" />
       <workItem from="1643708950771" duration="18580000" />
-      <workItem from="1643797827430" duration="6650000" />
+      <workItem from="1643797827430" duration="24011000" />
     </task>
     <task id="LOCAL-00001" summary="Flexbox">
       <created>1641289751484</created>
@@ -277,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643751913001</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="React simply projects cd">
+      <created>1643819123442</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1643819123442</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,7 +321,8 @@
     <MESSAGE value="sass" />
     <MESSAGE value="React intro" />
     <MESSAGE value="React simply projects" />
-    <option name="LAST_COMMIT_MESSAGE" value="React simply projects" />
+    <MESSAGE value="React simply projects cd" />
+    <option name="LAST_COMMIT_MESSAGE" value="React simply projects cd" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
