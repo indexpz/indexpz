@@ -4,17 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="React simply projects cd">
-      <change afterPath="$PROJECT_DIR$/portfolio/087_react_fortuneTelling/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/087_react_fortuneTelling/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/087_react_fortuneTelling/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/088_react_List/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/088_react_List/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/088_react_List/js/User.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/088_react_List/js/UsersList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/088_react_List/js/app.js" afterDir="false" />
+    <list default="true" id="172391bc-5a03-4af0-817e-8e82aaa11646" name="Changes" comment="React projects cd">
+      <change afterPath="$PROJECT_DIR$/portfolio/023_react_clock_componentDidMount/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/023_react_clock_componentDidMount/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/076_react_checkBox_v4/Powtorka_react_checkBox_v4/077_react_checkbox_powtorka/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/089_react_state_async/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/089_react_state_async/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/089_react_state_async/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/090_react_lifecycle/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/090_react_lifecycle/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/090_react_lifecycle/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/091_react_button_lifecycle/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/091_react_button_lifecycle/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/091_react_button_lifecycle/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/092_react_counter_componentDidUpdate/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/092_react_counter_componentDidUpdate/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/092_react_counter_componentDidUpdate/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/093_react_clcok_componentDidMount/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/093_react_clcok_componentDidMount/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/093_react_clcok_componentDidMount/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/094_react_clcok_componentWillMount_button/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/094_react_clcok_componentWillMount_button/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/094_react_clcok_componentWillMount_button/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/201_react_developer/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/201_react_developer/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/Powtorka_react_checkBox_v4/077_react_checkbox_powtorka/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/076_react_checkBox_v4/Powtorka_react_checkBox_v4/077_react_checkbox_powtorka/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/Powtorka_react_checkBox_v4/077_react_checkbox_powtorka/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/023_react_clock_componentDidMount/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/Powtorka_react_checkBox_v4/077_react_checkbox_powtorka/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/076_react_checkBox_v4/Powtorka_react_checkBox_v4/077_react_checkbox_powtorka/js/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,11 +98,11 @@
       <recent name="$PROJECT_DIR$/portfolio/060_react_JSX" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/portfolio/076_react_checkBox_v4" />
       <recent name="$PROJECT_DIR$/portfolio/Powtorka_react_checkBox_v4" />
       <recent name="$PROJECT_DIR$/portfolio/073_react_checkBox_v1/js" />
       <recent name="$PROJECT_DIR$/portfolio" />
       <recent name="$PROJECT_DIR$/portfolio/" />
-      <recent name="$PROJECT_DIR$/portfolio/058_btnSASS/css" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -149,7 +165,9 @@
       <workItem from="1643565299449" duration="3454000" />
       <workItem from="1643620433549" duration="9453000" />
       <workItem from="1643708950771" duration="18580000" />
-      <workItem from="1643797827430" duration="24011000" />
+      <workItem from="1643797827430" duration="24613000" />
+      <workItem from="1644173429986" duration="801000" />
+      <workItem from="1644216565034" duration="11887000" />
     </task>
     <task id="LOCAL-00001" summary="Flexbox">
       <created>1641289751484</created>
@@ -284,7 +302,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643819123442</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="React projects cd">
+      <created>1643918957885</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1643918957885</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -322,7 +347,8 @@
     <MESSAGE value="React intro" />
     <MESSAGE value="React simply projects" />
     <MESSAGE value="React simply projects cd" />
-    <option name="LAST_COMMIT_MESSAGE" value="React simply projects cd" />
+    <MESSAGE value="React projects cd" />
+    <option name="LAST_COMMIT_MESSAGE" value="React projects cd" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
