@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paweł.
 - 👀 I’m interested in programing.
-- 🌱 I’m currently learning Java, JavaSript.
+- 🌱 I’m currently learning Python, JavaSript.
 - 💞️ I’m looking to collaborate on small project.
 - 📫 How to reach me: write email ore leave message.
 
